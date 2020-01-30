@@ -1,0 +1,22 @@
+.footer {
+  height: 150px;
+  background-color: #2C2B2B;
+  margin-top: 20px;
+  text-align:center;
+}
+
+.footer a {
+  display: inline-block;
+  color: #1DDD88;
+  font-size: 50px;
+}
+
+.socials a {
+  margin-top: 10px;
+  padding: 0 10px;
+}
+
+.footer p {
+  margin: 0 0;
+  color: #6B6C6C;
+}
